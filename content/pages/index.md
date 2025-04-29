@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
       - label: Get in touch
-        altText: ''
+        altText: get in touch
         url: /
         showIcon: true
         icon: arrowRight
