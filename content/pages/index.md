@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: Get in touch
         altText: get in touch
-        url: /
+        url: /contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
