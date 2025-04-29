@@ -117,7 +117,7 @@ sections:
     type: PricingSection
 seo:
   metaTitle: Services - technosheen
-  metaDescription: ''
+  metaDescription: Our Services
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
