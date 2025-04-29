@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Alexa\Dev Docs
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
