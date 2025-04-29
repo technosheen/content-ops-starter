@@ -293,31 +293,6 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: sadf
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: ''
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
       - title: Name
         tagline: Testimonial 2
         subtitle: Company
