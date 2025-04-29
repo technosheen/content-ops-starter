@@ -202,6 +202,7 @@ sections:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
+      - content/pages/blog/bakkt-project.md
     showThumbnail: true
     showDate: false
     showAuthor: false
