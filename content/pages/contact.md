@@ -11,6 +11,9 @@ sections:
     text: >
       We turn complexity into clarity and bring visions within reach – for
       today, tomorrow and the years to come.
+
+
+      Let's help you get started.
     actions: []
     media:
       type: FormBlock
