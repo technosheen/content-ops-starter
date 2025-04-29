@@ -460,7 +460,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
