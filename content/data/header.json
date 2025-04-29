@@ -1,87 +1,60 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/app-icon 1.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ],
+                "padding": [
+                    "pt-0",
+                    "pb-0"
+                ],
+                "borderRadius": "small"
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Services",
+            "url": "/services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Services",
+            "showIcon": false
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "type": "Link",
+            "label": "Work",
+            "altText": "Our Work",
+            "url": "/work",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "style": "primary",
+            "elementId": ""
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "type": "Link",
+            "label": "About",
+            "altText": "About us",
+            "url": "/about",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "#",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
@@ -90,5 +63,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "technosheen"
 }
