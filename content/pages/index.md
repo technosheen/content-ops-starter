@@ -139,7 +139,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Learn more
-        altText: ''
+        altText: learn more
         url: /services
         showIcon: false
         icon: arrowRight
