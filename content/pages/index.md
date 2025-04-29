@@ -217,6 +217,10 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
+    badge:
+      type: Badge
+      label: HubSpot
+      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
