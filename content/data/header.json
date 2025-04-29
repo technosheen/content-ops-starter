@@ -30,7 +30,7 @@
         {
             "type": "Link",
             "label": "About",
-            "altText": "",
+            "altText": "About us",
             "url": "/about",
             "showIcon": false,
             "icon": "arrowRight",
