@@ -1,6 +1,6 @@
 ---
 title: Work
-slug: pricing
+slug: work
 sections:
   - title:
       text: Flexible Pricing
