@@ -32,7 +32,7 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "url": "",
+            "url": "#",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
