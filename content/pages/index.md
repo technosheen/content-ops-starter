@@ -140,7 +140,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /services
         showIcon: false
         icon: arrowRight
         iconPosition: right
