@@ -54,11 +54,12 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "url": "#",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "elementId": "netlify"
         }
     ],
     "variant": "logo-left-primary-nav-centered",

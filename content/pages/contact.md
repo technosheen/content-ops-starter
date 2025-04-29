@@ -5,14 +5,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Get in touch
       color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 'Looking to hone your digital edge? '
+    text: >
+      We turn complexity into clarity and bring visions within reach – for
+      today, tomorrow and the years to come.
+
+
+      Let's help you get started.
     actions: []
     media:
       type: FormBlock
@@ -43,7 +44,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: contact-form
+      elementId: netlify
       styles:
         self:
           padding:
