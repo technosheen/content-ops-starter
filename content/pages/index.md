@@ -7,7 +7,9 @@ sections:
       text: ' Design that elevates your digital presence'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      We build bridges,  connecting people to brands through interactive digital
+      experiences.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
