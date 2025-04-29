@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Drake Garza",
-    "role": "Job title",
+    "name": "Coco Loco",
+    "role": "COO",
     "image": {
-        "url": "/images/avatar5.svg",
+        "url": "/images/coco-author.svg",
         "altText": "Drake Garza",
         "styles": {
             "self": {
