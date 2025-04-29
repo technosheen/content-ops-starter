@@ -31,7 +31,7 @@
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
-            "url": "/contact",
+            "url": "/about",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
