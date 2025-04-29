@@ -219,7 +219,7 @@ sections:
     hoverEffect: shadow-plus-move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Featured projects
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
