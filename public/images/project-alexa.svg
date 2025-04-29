@@ -1,14 +1,14 @@
 <svg width="711" height="400" viewBox="0 0 711 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_57_25)">
 <path d="M0 15C0 6.71572 6.71573 0 15 0H1425C1433.28 0 1440 6.71573 1440 15V810H0V15Z" fill="url(#pattern0_57_25)"/>
-<path d="M151.909 46C151.909 43.2386 154.148 41 156.909 41H715.091C723.375 41 730.091 47.7157 730.091 56V394H151.909V46Z" fill="url(#pattern1_57_25)"/>
+<path d="M88 50C88 41.7157 94.7157 35 103 35H713C721.284 35 728 41.7157 728 50V470H96C91.5817 470 88 466.418 88 462V50Z" fill="url(#pattern1_57_25)"/>
 </g>
 <defs>
 <pattern id="pattern0_57_25" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_57_25" transform="scale(0.000694444 0.00123457)"/>
 </pattern>
 <pattern id="pattern1_57_25" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image1_57_25" transform="matrix(0.000963391 0 0 0.00157795 0 -0.000261942)"/>
+<use xlink:href="#image1_57_25" transform="matrix(0.000963391 0 0 0.00141627 0.00528473 0.00589111)"/>
 </pattern>
 <clipPath id="clip0_57_25">
 <rect width="711" height="400" fill="white"/>
