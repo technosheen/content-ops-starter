@@ -15,7 +15,7 @@ sections:
 
     actions:
       - label: Learn more
-        altText: ''
+        altText: learn more
         url: /
         showIcon: false
         icon: arrowRight
