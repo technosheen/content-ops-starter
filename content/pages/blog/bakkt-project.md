@@ -1,6 +1,6 @@
 ---
 title: Bakkt
-slug: case-study-1
+slug: bakkt-project
 date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
