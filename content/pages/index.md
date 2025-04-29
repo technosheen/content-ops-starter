@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Learn more
         altText: learn more
-        url: /
+        url: /services
         showIcon: false
         icon: arrowRight
         iconPosition: right
