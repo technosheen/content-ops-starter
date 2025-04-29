@@ -24,7 +24,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "altText": "Services"
+            "altText": "Services",
+            "showIcon": true
         },
         {
             "label": "Blog",
