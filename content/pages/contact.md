@@ -8,11 +8,9 @@ sections:
       text: Get in touch
       color: text-dark
     subtitle: 'Looking to hone your digital edge? '
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We turn complexity into clarity and bring visions within reach – for
+      today, tomorrow and the years to come.
     actions: []
     media:
       type: FormBlock
