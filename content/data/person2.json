@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Sean Mahoney",
+    "role": "Developer",
     "image": {
-        "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
+        "url": "/images/author.svg",
+        "altText": "Sean Mahoney",
         "styles": {
             "self": {
                 "borderRadius": "medium",
