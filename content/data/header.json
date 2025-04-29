@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "Work",
-            "altText": "",
+            "altText": "Our Work",
             "url": "/work",
             "showIcon": false,
             "icon": "arrowRight",
