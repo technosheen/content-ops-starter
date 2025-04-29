@@ -1,6 +1,6 @@
 ---
 title: Creating mesmerizing and useful line animations
-slug: life-of-our-development-team
+slug: bakkt
 date: '2025-01-15'
 excerpt: Custom line animations and UX for Bakkt.com
 featuredImage:
