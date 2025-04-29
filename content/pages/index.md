@@ -56,7 +56,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      From strategy to selecting the right architecture, from a modern design to
+      an optimized backend: big and complex doesn’t scare us.
     items:
       - type: FeaturedItem
         title: Design
