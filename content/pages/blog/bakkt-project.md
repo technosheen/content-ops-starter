@@ -1,6 +1,6 @@
 ---
-title: Case study 1
-slug: case-study-1
+title: Bakkt
+slug: bakkt-project
 date: '2022-01-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/project-bakkt.svg
   altText: Case study 1
   styles:
     self:
