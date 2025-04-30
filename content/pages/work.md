@@ -13,6 +13,7 @@ sections:
     posts:
       - content/pages/blog/top-twenty-ways-to-save-time.md
       - content/pages/blog/bakkt-project.md
+      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
