@@ -1,6 +1,6 @@
 ---
 title: Dev\Docs @ Amazon Alexa
-slug: surround-yourself-with-right-people
+slug: alexa-dev-docs
 date: '2024-03-26'
 excerpt: >-
   Starting a business is no small feat. It’s a journey filled with challenges,
