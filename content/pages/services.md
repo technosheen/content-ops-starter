@@ -138,6 +138,6 @@ slug: services
 seo:
   type: Seo
   metaTitle: Services - technosheen
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: our services
   metaTags: []
 ---
