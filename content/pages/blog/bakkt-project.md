@@ -1,5 +1,5 @@
 ---
-title: Bakkt
+title: Bakkt UX Animation
 slug: bakkt-project
 date: '2022-01-05'
 excerpt: >-
