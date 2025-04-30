@@ -27,7 +27,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "lowercase",
-        "letterSpacing": "normal",
+        "letterSpacing": "tight",
         "type": "ThemeStyleHeading"
     },
     "h4": {
