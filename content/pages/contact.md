@@ -66,7 +66,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Contact
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Contact us
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
