@@ -23,11 +23,11 @@
         "type": "ThemeStyleHeading"
     },
     "h3": {
-        "size": "3xl",
-        "weight": "normal",
+        "size": "2xl",
+        "weight": "medium",
         "decoration": "none",
-        "case": "none",
-        "letterSpacing": "normal",
+        "case": "lowercase",
+        "letterSpacing": "tight",
         "type": "ThemeStyleHeading"
     },
     "h4": {
