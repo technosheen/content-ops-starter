@@ -137,7 +137,7 @@ sections:
 slug: services
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: Services - technosheen
+  metaDescription: our services
   metaTags: []
 ---
