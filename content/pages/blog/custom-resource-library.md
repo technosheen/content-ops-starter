@@ -1,6 +1,6 @@
 ---
 title: Custom Resource Library
-slug: top-twenty-ways-to-save-time
+slug: custom-resource-library
 date: ''
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
