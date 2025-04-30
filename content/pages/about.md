@@ -157,7 +157,7 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: About - technosheen
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: about us
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
