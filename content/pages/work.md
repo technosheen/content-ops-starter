@@ -11,7 +11,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/top-twenty-ways-to-save-time.md
       - content/pages/blog/bakkt-project.md
       - content/pages/blog/case-study-3.md
       - content/pages/blog/case-study-2.md
