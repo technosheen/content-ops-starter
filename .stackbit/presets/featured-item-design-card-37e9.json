@@ -1,0 +1,57 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "design card",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "card"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Built to Power Every Interaction",
+                "tagline": "",
+                "subtitle": "baby got back (ends)",
+                "text": "Backends built specifically to help you win in EVERY interaction. Loaded with hyperlocal content, expert guides, and shareable tools—effortlessly turn texts, emails, listing presentations, and casual chats into opportunities.\n\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature2.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "row-reverse",
+                        "margin": [
+                            "mt-96"
+                        ],
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-design-card-37e9.png"
+        }
+    ]
+}
