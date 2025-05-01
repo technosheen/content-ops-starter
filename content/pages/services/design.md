@@ -111,13 +111,6 @@ sections:
           Turn cautious prospects into die-hard clients with tools strategically
           built to engage, capture, and convert—on every page, and in every
           interaction.
-
-
-          [
-
-
-
-          ](https://agentfire.com/schedule-a-demo/)
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
