@@ -186,9 +186,7 @@ sections:
         title: Semi-Custom
         price: $1800
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: ''
         features:
           - Custom Homepage
           - Pre-Configured Interior Pages
