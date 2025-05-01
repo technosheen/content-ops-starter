@@ -188,7 +188,7 @@ sections:
       - type: PricingPlan
         title: Semi-Custom
         price: $1800
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
