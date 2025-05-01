@@ -120,7 +120,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row-reverse
-            justifyContent: flex-end
+            justifyContent: center
     actions: []
     variant: small-list
     colors: bg-neutral-fg-dark
