@@ -162,7 +162,7 @@ sections:
     title:
       type: TitleBlock
       text: Our design packages fit every goal and budget.
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
