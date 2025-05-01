@@ -63,7 +63,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Our (Not-So-Secret) Secret Sauce
-        tagline: This is the tagline
+        tagline: Let's get saucy
         subtitle: ''
         text: >
           All our sites follow a battle-tested 21-point Blueprint, refined over
