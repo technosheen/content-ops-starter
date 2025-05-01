@@ -45,7 +45,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: 'its not just a design, its your customer experience'
       color: text-primary
       styles:
         self:
