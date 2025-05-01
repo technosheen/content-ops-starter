@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         title: Our (Not-So-Secret) Secret Sauce
         tagline: ''
-        subtitle: 'hook, line, & sinker'
+        subtitle: it just works
         text: >+
           All our sites follow a battle-tested 21-point Blueprint, refined over
           thousands of successful launches. It’s your unfair advantage for
