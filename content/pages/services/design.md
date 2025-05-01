@@ -232,7 +232,6 @@ sections:
           - Custom Homepage
           - 10 Custom Interior Pages
           - Dedicated Senior Designer
-          - Feature five
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
