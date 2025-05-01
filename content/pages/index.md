@@ -4,12 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ' Design that elevates your digital presence'
+      text: 'Your brand or website, delivered at lightspeed.'
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      We build bridges,  connecting people to brands through interactive digital
-      experiences.
+      Fusing cutting-edge innovation with inclusive design principles, delivered
+      with excellence, to build transformative digital platforms for LGBTQ+
+      businesses and allies.
     text: |+
 
 
@@ -33,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Designer (5).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -61,13 +62,19 @@ sections:
       an optimized backend: big and complex doesn’t scare us.
     items:
       - type: FeaturedItem
-        title: Design
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        title: Brand-Focused Design
+        subtitle: ''
+        text: "Get a stunning, brand-focused website\_**(Ignite, Semi-Custom, or Custom)**\_tailored to clearly communicate your unique value and position you as the definitive hyperlocal authority.\n"
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /services/design
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -89,18 +96,27 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Development
-        subtitle: Let's get technical
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Hyperlocal Authority
+        subtitle: ''
+        text: >
+          Position yourself as the undisputed local expert. Showcase deep local
+          insights and powerful community knowledge—transforming casual visitors
+          into loyal clients.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /services/local
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -114,18 +130,27 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Scale
-        subtitle: Serious Growth
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Engage & Convert
+        subtitle: ''
+        text: >
+          Sed ut perspiciatis unde omnis isteTurn cautious prospects into
+          die-hard clients with tools strategically built to engage, capture,
+          and convert—on every page, and in every interaction.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /services/engagement
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
