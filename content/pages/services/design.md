@@ -46,7 +46,7 @@ sections:
     title:
       type: TitleBlock
       text: 'its not just a design, its your customer experience'
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
