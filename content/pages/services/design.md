@@ -139,7 +139,7 @@ sections:
             flexDirection: row-reverse
             margin:
               - mt-96
-            justifyContent: center
+            justifyContent: flex-end
       - type: FeaturedItem
         title: 'Jaw-Dropping, Brand-Focused Design'
         tagline: ''
