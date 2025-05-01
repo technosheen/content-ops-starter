@@ -65,7 +65,16 @@ sections:
         title: Brand-Focused Design
         subtitle: ''
         text: "Get a stunning, brand-focused website\_**(Ignite, Semi-Custom, or Custom)**\_tailored to clearly communicate your unique value and position you as the definitive hyperlocal authority.\n"
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /services/design
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
