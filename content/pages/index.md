@@ -132,14 +132,10 @@ sections:
         type: FeaturedItem
       - title: Engage & Convert
         subtitle: ''
-        text: >+
+        text: >
           Sed ut perspiciatis unde omnis isteTurn cautious prospects into
           die-hard clients with tools strategically built to engage, capture,
-          and convert—on every page, and in every interaction.[
-
-
-          ](https://agentfire.com/schedule-a-demo/)
-
+          and convert—on every page, and in every interaction.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
