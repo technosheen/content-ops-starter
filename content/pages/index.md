@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ' Design that elevates your digital presence'
+      text: Design that elevates your digital presence
       color: text-dark
       type: TitleBlock
     subtitle: >-
