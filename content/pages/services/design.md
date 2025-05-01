@@ -154,7 +154,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Ignite
         price: Free
         details: No credit card required
         description: >-
