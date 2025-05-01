@@ -42,8 +42,7 @@ sections:
         title: 'Jaw-Dropping, Brand-Focused Design'
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: "Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
