@@ -131,7 +131,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: big-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
