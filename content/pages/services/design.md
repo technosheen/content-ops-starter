@@ -106,7 +106,7 @@ sections:
       - type: FeaturedItem
         title: Engage & Convert
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'hook, line, & sinker'
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
