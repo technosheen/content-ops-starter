@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: built to power every interaction.
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
