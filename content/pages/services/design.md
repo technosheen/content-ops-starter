@@ -78,7 +78,7 @@ sections:
       - type: FeaturedItem
         title: Built to Power Every Interaction
         tagline: ''
-        subtitle: baby got back
+        subtitle: baby got back (ends)
         text: >+
           Backends built specifically to help you win in EVERY interaction.
           Loaded with hyperlocal content, expert guides, and shareable
