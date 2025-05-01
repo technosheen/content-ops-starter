@@ -161,7 +161,7 @@ sections:
         features:
           - Choose your unique theme
           - White-Glove Setup
-          - Customized with your branding
+          - Customized With Your Branding
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
