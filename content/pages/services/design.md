@@ -157,6 +157,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/bg1.jpg
   - type: PricingSection
     title:
       type: TitleBlock
