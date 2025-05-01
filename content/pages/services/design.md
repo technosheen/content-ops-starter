@@ -162,7 +162,6 @@ sections:
           - Choose your unique theme
           - White-Glove Setup
           - Customized with your branding
-          - Feature four
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
