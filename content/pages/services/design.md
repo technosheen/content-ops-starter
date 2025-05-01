@@ -195,7 +195,7 @@ sections:
         features:
           - Custom Homepage
           - Pre-Configured Interior Pages
-          - Feature three
+          - Dedicated Designer
           - Feature four
         image:
           type: ImageBlock
