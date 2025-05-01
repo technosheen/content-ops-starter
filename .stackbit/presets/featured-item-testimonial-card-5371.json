@@ -1,0 +1,55 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "testimonial card",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "testimonial"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Name",
+                "tagline": "Testimonial 2",
+                "subtitle": "Company",
+                "text": "testimonial\n\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/person-placeholder-light.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "John Doe",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "full"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutralAlt-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-9",
+                            "pb-9",
+                            "pl-9",
+                            "pr-9"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-testimonial-card-5371.png"
+        }
+    ]
+}
