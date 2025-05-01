@@ -155,7 +155,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Ignite
-        price: Free
+        price: $700
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
