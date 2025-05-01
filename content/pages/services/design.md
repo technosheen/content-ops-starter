@@ -78,33 +78,6 @@ sections:
             margin:
               - mb-14
       - type: FeaturedItem
-        title: Name
-        tagline: Testimonial 2
-        subtitle: Company
-        text: |+
-          testimonial
-
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: Built to Power Every Interaction
         tagline: ''
         subtitle: baby got back (ends)
