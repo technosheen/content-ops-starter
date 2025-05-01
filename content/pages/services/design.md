@@ -196,7 +196,6 @@ sections:
           - Custom Homepage
           - Pre-Configured Interior Pages
           - Dedicated Designer
-          - Feature four
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
