@@ -39,7 +39,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: row-reverse
             margin:
               - mt-96
       - type: FeaturedItem
