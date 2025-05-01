@@ -64,10 +64,7 @@ sections:
       - type: FeaturedItem
         title: Brand-Focused Design
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Get a stunning, brand-focused website\_**(Ignite, Semi-Custom, or Custom)**\_tailored to clearly communicate your unique value and position you as the definitive hyperlocal authority.\n\n[\n\n\n](https://agentfire.com/brand-focused-design/)\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
