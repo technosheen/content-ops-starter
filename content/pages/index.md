@@ -87,7 +87,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Development
+      - title: Hyperlocal Authority
         subtitle: Let's get technical
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
