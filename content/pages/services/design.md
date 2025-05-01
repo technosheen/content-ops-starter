@@ -166,7 +166,7 @@ sections:
             margin:
               - mb-0
               - ml-14
-            justifyContent: center
+            justifyContent: flex-end
       - type: FeaturedItem
         title: Our (Not-So-Secret) Secret Sauce
         tagline: ''
