@@ -107,10 +107,11 @@ sections:
         title: Our (Not-So-Secret) Secret Sauce
         tagline: ''
         subtitle: 'hook, line, & sinker'
-        text: >
-          Turn cautious prospects into die-hard clients with tools strategically
-          built to engage, capture, and convert—on every page, and in every
-          interaction.
+        text: >+
+          All our sites follow a battle-tested 21-point Blueprint, refined over
+          thousands of successful launches. It’s your unfair advantage for
+          captivating visitors, building trust, and dominating your market.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
