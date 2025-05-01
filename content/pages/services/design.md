@@ -231,7 +231,7 @@ sections:
         features:
           - Custom Homepage
           - 10 Custom Interior Pages
-          - Feature three
+          - Dedicated Senior Designer
           - Feature four
           - Feature five
         image:
