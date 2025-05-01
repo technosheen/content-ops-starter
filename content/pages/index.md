@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Brand-Focused Design
-        subtitle: Numbers Done
+        subtitle: ''
         text: "Get a stunning, brand-focused website\_**(Ignite, Semi-Custom, or Custom)**\_tailored to clearly communicate your unique value and position you as the definitive hyperlocal authority.\n"
         actions: []
         elementId: null
