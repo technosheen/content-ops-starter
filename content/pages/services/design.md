@@ -65,7 +65,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: row-reverse
             margin:
               - mb-0
             justifyContent: center
