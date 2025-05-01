@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: 'Jaw-Dropping, Brand-Focused Design'
         tagline: Talk about a glow up?
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: "Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n"
         image:
           type: ImageBlock
