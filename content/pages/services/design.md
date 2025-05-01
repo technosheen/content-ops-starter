@@ -61,7 +61,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Our (Not-So-Secret) Secret Sauce
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
