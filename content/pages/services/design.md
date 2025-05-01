@@ -204,7 +204,7 @@ sections:
           - pl-8
           - pb-16
           - pr-8
-        justifyContent: flex-start
+        justifyContent: flex-end
       subtitle:
         textAlign: center
   - type: GenericSection
