@@ -159,7 +159,7 @@ sections:
         details: No credit card require
         description: ''
         features:
-          - Feature one
+          - Choose your unique theme
           - Feature two
           - Feature three
           - Feature four
