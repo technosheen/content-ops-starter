@@ -119,7 +119,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: row-reverse
             justifyContent: flex-end
     actions: []
     variant: small-list
