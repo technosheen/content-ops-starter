@@ -8,8 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      We build bridges,  connecting people to brands through interactive digital
-      experiences.
+      Fusing cutting-edge innovation with inclusive design principles, delivered
+      with excellence, to build transformative digital platforms for LGBTQ+
+      businesses and allies.
     text: |+
 
 
