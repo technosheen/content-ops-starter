@@ -229,7 +229,7 @@ sections:
           *   Dedicated Sr. Designer
 
         features:
-          - Feature one
+          - Custom Homepage
           - Feature two
           - Feature three
           - Feature four
