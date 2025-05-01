@@ -161,7 +161,7 @@ sections:
         features:
           - Choose your unique theme
           - White-Glove Setup
-          - Feature three
+          - Customized with your branding
           - Feature four
         image:
           type: ImageBlock
