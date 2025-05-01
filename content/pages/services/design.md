@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: built to power every interaction.
-        tagline: This is the tagline
+        tagline: Baby got back (ends)
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
