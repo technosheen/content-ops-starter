@@ -68,6 +68,7 @@ sections:
             flexDirection: row
             margin:
               - mb-0
+            justifyContent: center
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
