@@ -165,7 +165,7 @@ sections:
             flexDirection: row-reverse
             margin:
               - mb-0
-              - ml-14
+              - ml-0
             justifyContent: flex-end
       - type: FeaturedItem
         title: Our (Not-So-Secret) Secret Sauce
