@@ -53,31 +53,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 'Jaw-Dropping, Brand-Focused Design'
-        tagline: ''
-        subtitle: ready for a glow up?
-        text: "Choose from 3 strategic design levels, each tailored perfectly around your unique brand. Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n\n"
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            margin:
-              - mb-0
-      - type: FeaturedItem
         title: Built to Power Every Interaction
         tagline: ''
         subtitle: baby got back (ends)
@@ -107,6 +82,31 @@ sections:
             flexDirection: row
             margin:
               - mt-96
+      - type: FeaturedItem
+        title: 'Jaw-Dropping, Brand-Focused Design'
+        tagline: ''
+        subtitle: ready for a glow up?
+        text: "Choose from 3 strategic design levels, each tailored perfectly around your unique brand. Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n\n"
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            margin:
+              - mb-0
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
