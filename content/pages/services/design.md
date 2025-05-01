@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: "Choose from 3 strategic design levels, each tailored perfectly around your unique brand. Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n\n"
         image:
