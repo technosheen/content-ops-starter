@@ -75,6 +75,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            margin:
+              - mb-14
       - type: FeaturedItem
         title: Built to Power Every Interaction
         tagline: ''
