@@ -53,7 +53,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 'Jaw-Dropping, Brand-Focused Design'
         tagline: ''
         subtitle: This is the item subtitle
         text: "Choose from 3 strategic design levels, each tailored perfectly around your unique brand. Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n\n"
