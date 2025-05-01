@@ -62,7 +62,7 @@ sections:
       an optimized backend: big and complex doesn’t scare us.
     items:
       - type: FeaturedItem
-        title: Design
+        title: Brand-Focused Design
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
