@@ -65,8 +65,9 @@ sections:
         title: Our (Not-So-Secret) Secret Sauce
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          All our sites follow a battle-tested 21-point Blueprint, refined over
+          thousands of successful launches. 
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
