@@ -274,6 +274,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/bg1.jpg
 slug: /services/design
 isDraft: false
 seo:
