@@ -102,13 +102,6 @@ sections:
           Position yourself as the undisputed local expert. Showcase deep local
           insights and powerful community knowledge—transforming casual visitors
           into loyal clients.
-
-
-          [
-
-
-
-          ](https://agentfire.com/schedule-a-demo/)
         image:
           url: /images/icon2.svg
           altText: Featured icon two
