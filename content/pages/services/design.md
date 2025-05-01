@@ -168,7 +168,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
+            label: Start now
             url: /
             icon: arrowRight
             iconPosition: right
