@@ -80,8 +80,12 @@ sections:
         title: Built to Power Every Interaction
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          Backends built specifically to help you win in EVERY interaction.
+          Loaded with hyperlocal content, expert guides, and shareable
+          tools—effortlessly turn texts, emails, listing presentations, and
+          casual chats into opportunities.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
