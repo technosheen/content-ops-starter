@@ -221,9 +221,13 @@ sections:
         title: Custom
         price: $3500
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |+
+          *   Custom Homepage
+
+          *   10 Custom Interior Pages
+
+          *   Dedicated Sr. Designer
+
         features:
           - Feature one
           - Feature two
