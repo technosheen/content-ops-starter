@@ -169,11 +169,10 @@ sections:
         title: Our (Not-So-Secret) Secret Sauce
         tagline: ''
         subtitle: it just works
-        text: >+
+        text: >
           All our sites follow a battle-tested 21-point Blueprint, refined over
           thousands of successful launches. It’s your unfair advantage for
           captivating visitors, building trust, and dominating your market.
-
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
