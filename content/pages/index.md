@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Design that elevates your digital presence
+      text: 'Your brand or website, delivered at lightspeed.'
       color: text-dark
       type: TitleBlock
     subtitle: >-
