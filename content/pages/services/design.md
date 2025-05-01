@@ -221,10 +221,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
+              - pt-4
+              - pb-4
+              - pl-4
+              - pr-4
             borderRadius: large
       - type: PricingPlan
         title: Custom
