@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: ''
+title: Brand-Focused Design
 sections:
   - type: GenericSection
     title:
