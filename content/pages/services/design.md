@@ -16,8 +16,12 @@ sections:
         title: built to power every interaction.
         tagline: Baby got back (ends)
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Built specifically to help you win in EVERY interaction. Loaded with
+          hyperlocal content, expert guides, and shareable tools—effortlessly
+          turn texts, emails, listing presentations, and casual chats into
+          opportunities.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
