@@ -194,7 +194,7 @@ sections:
           accusantium doloremque.
         features:
           - Custom Homepage
-          - Feature two
+          - Pre
           - Feature three
           - Feature four
         image:
