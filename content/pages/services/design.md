@@ -150,6 +150,13 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: PricingSection
     title:
       type: TitleBlock
