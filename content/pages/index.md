@@ -98,10 +98,17 @@ sections:
               borderRadius: x-large
       - title: Hyperlocal Authority
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Position yourself as the undisputed local expert. Showcase deep local
+          insights and powerful community knowledge—transforming casual visitors
+          into loyal clients.
+
+
+          [
+
+
+
+          ](https://agentfire.com/schedule-a-demo/)
         image:
           url: /images/icon2.svg
           altText: Featured icon two
