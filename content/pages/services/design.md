@@ -104,7 +104,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Engage & Convert
+        title: Our (Not-So-Secret) Secret Sauce
         tagline: ''
         subtitle: 'hook, line, & sinker'
         text: >
