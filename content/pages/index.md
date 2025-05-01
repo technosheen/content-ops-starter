@@ -132,10 +132,14 @@ sections:
         type: FeaturedItem
       - title: Engage & Convert
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Sed ut perspiciatis unde omnis isteTurn cautious prospects into
+          die-hard clients with tools strategically built to engage, capture,
+          and convert—on every page, and in every interaction.[
+
+
+          ](https://agentfire.com/schedule-a-demo/)
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
