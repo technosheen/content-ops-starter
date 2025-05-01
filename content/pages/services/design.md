@@ -146,7 +146,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Enterprise grade sites for any budget
       color: text-dark
       styles:
         self:
