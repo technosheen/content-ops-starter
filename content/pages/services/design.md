@@ -78,7 +78,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Built to Power Every Interaction
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           Backends built specifically to help you win in EVERY interaction.
