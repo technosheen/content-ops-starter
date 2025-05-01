@@ -146,9 +146,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: >-
-        Our design packages fit every goal and budget.Our design packages fit
-        every goal and budget.
+      text: Our design packages fit every goal and budget.
       color: text-dark
       styles:
         self:
