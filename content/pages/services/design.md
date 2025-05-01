@@ -146,7 +146,9 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Enterprise grade sites for any budget
+      text: >-
+        Our design packages fit every goal and budget.Our design packages fit
+        every goal and budget.
       color: text-dark
       styles:
         self:
