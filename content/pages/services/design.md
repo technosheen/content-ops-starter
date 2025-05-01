@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: built to power every interaction.
         tagline: Baby got back (ends)
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Built specifically to help you win in EVERY interaction. Effortlessly
           turn texts, emails, listing presentations, and casual chats into
