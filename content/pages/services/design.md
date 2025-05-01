@@ -56,8 +56,7 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: "Choose from 3 strategic design levels, each tailored perfectly around your unique brand. Stunning, memorable,\_*and priced to crush our competitors*—you’ll instantly impress and dominate your market.\n\n"
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
