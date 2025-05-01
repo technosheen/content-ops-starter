@@ -160,7 +160,7 @@ sections:
         description: ''
         features:
           - Choose your unique theme
-          - Feature two
+          - White-Glove Setup
           - Feature three
           - Feature four
         image:
