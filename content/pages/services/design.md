@@ -84,6 +84,37 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+      - type: FeaturedItem
+        title: Built to Power Every Interaction
+        tagline: ''
+        subtitle: baby got back (ends)
+        text: >+
+          Backends built specifically to help you win in EVERY interaction.
+          Loaded with hyperlocal content, expert guides, and shareable
+          tools—effortlessly turn texts, emails, listing presentations, and
+          casual chats into opportunities.
+
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row-reverse
+            margin:
+              - mt-96
+            justifyContent: center
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
