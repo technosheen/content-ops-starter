@@ -230,7 +230,7 @@ sections:
 
         features:
           - Custom Homepage
-          - Feature two
+          - 10 Custom Interior Pages
           - Feature three
           - Feature four
           - Feature five
