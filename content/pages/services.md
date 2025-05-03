@@ -145,6 +145,9 @@ sections:
       type: ImageBlock
       url: /images/laptop1.jpeg
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: medium
     badge:
       type: Badge
       label: This is a badge
