@@ -40,7 +40,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderRadius: x-small
+          borderRadius: medium
     elementId: ''
     colors: bg-light-fg-dark
     styles:
