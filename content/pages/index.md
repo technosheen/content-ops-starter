@@ -92,6 +92,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Designer (5).png
   - type: FeaturedItemsSection
     title:
       text: What we do
