@@ -133,6 +133,7 @@ sections:
         iconPosition: right
         style: secondary
         altText: Choose your design
+        showIcon: true
       - type: Link
         label: ''
         url: /
