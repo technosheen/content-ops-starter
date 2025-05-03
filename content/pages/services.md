@@ -121,7 +121,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Brand Focused Design
       color: text-dark
     subtitle: Be in good company
     text: >
