@@ -17,7 +17,7 @@ seo:
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
-author: content/data/person2.json
+author: content/data/seanmahoney.json
 styles:
   self:
     flexDirection: col

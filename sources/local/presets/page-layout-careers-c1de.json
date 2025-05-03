@@ -86,7 +86,7 @@
                                 "$$type": "Person"
                             },
                             {
-                                "$$ref": "content/data/person2.json",
+                                "$$ref": "content/data/seanmahoney.json",
                                 "$$type": "Person"
                             },
                             {

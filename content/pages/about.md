@@ -55,7 +55,7 @@ sections:
           textAlign: center
       type: TitleBlock
     people:
-      - content/data/person2.json
+      - content/data/seanmahoney.json
       - content/data/person5.json
       - content/data/person6.json
     variant: three-col-grid

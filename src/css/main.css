@@ -181,7 +181,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply placeholder-dark/50;
+            @apply placeholder:text-dark/50;
         }
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
@@ -216,7 +216,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply placeholder-dark/50;
+            @apply placeholder:text-dark/50;
         }
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
@@ -251,7 +251,7 @@
         .sb-input,
         .sb-select,
         .sb-textarea {
-            @apply placeholder-light/50;
+            @apply placeholder:text-light/50;
         }
         .sb-component-button-primary {
             @apply bg-primary border-primary text-light;
