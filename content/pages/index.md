@@ -41,6 +41,7 @@ sections:
       styles:
         self:
           borderRadius: medium
+          borderStyle: solid
     elementId: ''
     colors: bg-light-fg-dark
     styles:
