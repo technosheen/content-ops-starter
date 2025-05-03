@@ -132,6 +132,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Choose your design
       - type: Link
         label: ''
         url: /
