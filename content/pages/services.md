@@ -124,9 +124,7 @@ sections:
       text: Brand Focused Design
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: "Get a stunning, brand-focused website\_**(Ignite, Semi-Custom, or Custom)**\_tailored to clearly communicate your unique value and position you as the definitive hyperlocal authority.\n\n[\n\n\n](https://techno-content-ops.netlify.app/services/design/)\n"
     actions:
       - type: Button
         label: Get started
