@@ -127,7 +127,7 @@ sections:
     text: "Get a stunning, brand-focused website\_**(Ignite, Semi-Custom, or Custom)**\_tailored to clearly communicate your unique value and position you as the definitive hyperlocal authority.\n\n"
     actions:
       - type: Button
-        label: Get started
+        label: Choose your design
         url: /
         icon: arrowRight
         iconPosition: right
