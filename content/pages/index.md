@@ -84,7 +84,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: col-reverse
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
